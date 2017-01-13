@@ -12,6 +12,7 @@ Technology Used.
 1. Maven - Building and Testing
 2. GitHub - Repository
 3. Junit - Testing tool
+4. Java 8
 
 
 Thank you,
