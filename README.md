@@ -3,7 +3,7 @@ Engineering Technical Test 2 (Cart)
 
 Design Pattern Used
 
-1. Strategy Pattern for IDiscount Interface.
+1. Strategy Pattern for IPricingRules Interface.
 
 2. Factory Pattern for Pricing Rules.
 
