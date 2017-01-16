@@ -14,6 +14,21 @@ Technology Used.
 3. Junit - Testing tool
 4. Java 8
 
+How to test
+
+Change directory to Chart where pom.xml is located. 
+	Run "mvn test
+
+How to build
+
+Change directory to Chart where pom.xml is located. 
+	Run "mvn package"
+	
+How to Run 
+
+Change directory to Chart\target
+
+	Run "java -jar Chart-1.0-SNAPSHOT.jar"
 
 Thank you,
 
